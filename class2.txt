@@ -1,0 +1,51 @@
+What is Information Security?
+Information security, sometimes shortened to InfoSec, is the practice of preventing unauthorized access, disclosure, disruption, destruction, modification, inspection, recording or destruction of information. Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data and focuses on efficient policy implementation, organization productivity.
+
+Elements of Information Security Information Security is a state of well-being of information and infrastructure in which the possibility of theft, tampering, and disruption of information and services is kept low or tolerable.
+ ● Confidentiality 
+● Authenticity 
+● Integrity
+ ● Non-Repudiation
+ ● Authorization
+ ● Availability
+
+The Security, Functionality and Usability Triangle The strength of these three components can define the level of Security in any system.
+
+Requirements to run Kali Linux on the Host machine Hardware: 
+● Minimum 4/8 GB RAM 
+● AMD2016 Model / intel core i3/i5/i7 processor
+ ● Minimum 80 GB Hard disk
+ ● Minimum 15 Mbps internet speed Software
+ ● Virtual box software
+ ● Kali Linux virtual machine image file (.ova) 
+● Metasploitable 2 virtual machine
+
+
+WHAT IS INFORMATION GATHERING?
+
+Information gathering, also known as reconnaissance or footprinting, is a crucial phase in ethical hacking. It involves collecting as much information as possible about a target system or network to understand its structure, vulnerabilities, and potential points of entry. The goal of information gathering is to gather intelligence that can be used to identify and analyze potential security risks.
+Here are some key aspects of information gathering in ethical hacking:
+1.	Passive Information Gathering:
+•	Involves collecting information without directly interacting with the target. This can include researching public information, domain registration details, and social media profiles.
+2.	Active Information Gathering:
+•	Requires interacting directly with the target system or network to gather more specific and detailed information. This can include techniques like network scanning and enumeration.
+
+
+Finding the victim IP address :
+
+We need to gather some information regarding the attack.
+
+So if we need to find victim Ip address we need to generate the link to the victim.
+
+So for that open the web browser and type grabify link.
+
+Steps:
+1.	TAKE ANY link like youtube link or anything
+2.	Copy it and create the link
+3.	3.send to that link to the victim.
+4.	It shows the ip address of the victim.
+
+For approxamtely finding the address:
+        Use the   IP2location In google and paste that ip address it shows the near location of your address.
+
+Like this the hackers we ill get the information by using n number of tools.
